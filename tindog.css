@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#section1{
+    background-color: #ff4c68;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+nav{
+    background-color: #ff4c68;
+}
+#navabar{
+    color: white;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.nav-link{
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    font-size: 1.2rem;
+}
+
+#meetingdeez{
+    color: white;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#doggif{
+    transform: rotate(15deg);
+    height: 479px;
+    width: 238px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#section2{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 200px;
+
+}
+
+.eaasy{
+    font-weight: bold;
+    font-size: 2rem;
+    padding-top: 10px;
+}
+
+.lovee{
+    color:#8f8f8f;
+}
+
+.hes{
+    color: #ef8172;
+}
+
+.hes:hover{
+    color: #ff4c68;
+}
+
+.dogiie{
+    border-radius: 100%;
+    height: 5%;
+    width: 5%;
+    display: inline;
+}
+
+#section3{
+    background-color: #ef8172;
+    text-align: center;
+}
+
+.pdeath{
+    display: inline;
+    color: white;
+    font-style: italic;
+}
+
+.titledeath{
+    color: white;
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 1.4;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.underimgs{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#section4{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+    
+.btngod{
+    width: 28rem;
+}
